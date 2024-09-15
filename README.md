@@ -14,9 +14,9 @@ This Is A Minecraft Datapack That Allows Admins And Certain Users Ease Of Access
 - Dowload The Folder Named "Chat Command Console".
 - Go Into The Folder Then "data" Then "command_console" Then "function" And Finally "tick.mcfunction"
 - Open "tick.mcfunction".
-- Copy The Example And Paste It On The Second Line.
-- Change "Battlesheep_Q_JR" To Usernames You Want To Have Access To The Command To Open The Command Console.
-- Repeat From Copying The Example If You Want More Than One Person To Have Access To The Command.
+- Change "PLAYER" To The Username You Want To Have Access To The Command To Open The Command Console.
+- If You Want More Than One Player To Have Access Then:<br />
+Copy The Example And Paste It Above The Example On A Line Of It's Own. Then Change "Battlesheep_Q_JR" To The Player's Username Who You Want To Have Access To The Command Console. If You Would Like More Than Two To Access The Command Console Then Repeat From "Copy The Example" Until You Have All The People You Want To Have Access To The Command Console.
 
 ## How To Use The Command Console
 - Once The Datapack Has Been Inserted Into Your World / Server's Datapack Library, Enter Minecraft And Do "/reload".
