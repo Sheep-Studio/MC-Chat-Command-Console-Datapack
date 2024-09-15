@@ -1,5 +1,5 @@
 ## Enable Command For Certain Players
-scoreboard players enable @a CommandConsole
+scoreboard players enable PLAYER CommandConsole
 ## Example: scoreboard players enable Battlesheep_Q_JR CommandConsole
 
 ## Command Console Command
